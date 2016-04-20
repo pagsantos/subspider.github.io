@@ -1,25 +1,17 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-04-20 00:53:11 +0200
-categories: jekyll update
+title:  "BLOG??? ME?"
+date:   2016-04-20 23:11:11 +0200
+categories: blog posts first post
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+I've never had a blog or the ones I open usually I do not maintain. I can't
+promisse I will keep it updated but I give it a try.
+So why doing it now ? Well this is not a personal blog is more a professional blog.
+Where I share what I've learned it might help others I have no clue.
+I'm Software Developer when I started searching for work Android was new at the
+market I still have that [HTC DREAM][HTC_Dream]. I found my first job as an Android Developer
+in Mallorca, Spain. Yes I was working not just having fun.
+Right now I'm living in Munich, Germany yes there is the Oktoberfest but I still have to work :)
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[HTC_Dream]: https://en.wikipedia.org/wiki/HTC_Dream
